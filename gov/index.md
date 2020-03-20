@@ -19,7 +19,17 @@ A list of constantly updated _official source_ social media accounts from **Mala
 | Ismail Sabri | [@IsmailSabri60](https://twitter.com/IsmailSabri60) | Minister of Defence |
 | Polis Diraja M'sia | [@PDRMsia](https://twitter.com/PDRMsia) | Polis Diraja Malaysia / Royal Malaysia Police |
 | Mohd Zuki Ali | [@zukiAli_](https://twitter.com/zukiAli_) | Ketua Setiausaha Negara / Chief Secretary to the Government of Malaysia |
+| KPDNHEP | [@mykpdnhep](https://twitter.com/mykpdnhep) | Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna |
+
+#### States & Towns
+
+| Name | Handler | Description |
+| --- | --- | --- |
+| DBKL | [@DBKL2u](https://twitter.com/DBKL2u) | Dewan Bandaraya Kuala Lumpur |
 | Amirudin Shari | [@AmirudinShari](https://twitter.com/AmirudinShari) | Dato’ Menteri Besar Selangor |
+| MBPJ | [@pjcitycouncil](https://twitter.com/pjcitycouncil) | Petaling Jaya City Council |
+| MPSelayang | [@MPSelayang](https://twitter.com/MPSelayang) | Majlis Perbandaran Selayang |
+| MPSubangJaya | [@MPSubangJaya](https://twitter.com/MPSubangJaya) | Majlis Perbandaran Subang Jaya |
 
 ## Facebook
 
@@ -60,21 +70,21 @@ A list of constantly updated _official source_ social media accounts from **Mala
 
 | Name | Number | Description |
 | --- | --- | --- |
-| Crisis Preparedness and Response Centre (CPRC) | +6010-9699 435<br> +6010-8608 949 | Ministry of Health |
-| Talian Aduan Merokok | +6010-8608 949 | Sedia menerima pertanyaan berkaitan COVID-19 |
-| MITI | 012-607 2750 | Kementerian Perdagangan Antarabangsa dan Industri |
-| Kementerian Pembangunan Wanita, Keluarga, dan Masyarakat | 019-2615 999 | Ministry of Women, Family and Community Development |
+| Crisis Preparedness and Response Centre (CPRC) | +6010&#x2011;9699&#160;435<br> +6010&#x2011;8608&#160;949 | Ministry of Health |
+| Talian Aduan Merokok | +6010&#x2011;8608&#160;949 | Sedia menerima pertanyaan berkaitan COVID-19 |
+| MITI | 012&#x2011;607&#160;2750 | Kementerian Perdagangan Antarabangsa dan Industri |
+| Kementerian Pembangunan Wanita, Keluarga, dan Masyarakat | 019&#x2011;2615&#160;999 | Ministry of Women, Family and Community Development |
 
 ## Telephone Hotline
 
 | Name | Phone Number | Description |
 | --- | --- | --- |
-| Crisis Preparedness and Response Centre (CPRC) | 03 8881 0200<br> 03 8881 0600<br> 03 8881 0700 | Ministry of Health |
-| Pusat Pengurusan Operasi Negara (MKN) | 03-8888 2010 | National Security Council |
-| Kementerian Luar Negeri | +603-8887 8770<br> +603-8887 4570<br> +603-8889 2746 | Ministry of Foreign Affairs |
+| Crisis Preparedness and Response Centre (CPRC) | 03&#160;8881&#160;0200<br> 03&#160;8881&#160;0600<br> 03&#160;8881&#160;0700 | Ministry of Health |
+| Pusat Pengurusan Operasi Negara (MKN) | 03&#x2011;8888&#160;2010 | National Security Council |
+| Kementerian Luar Negeri | +603&#x2011;8887&#160;8770<br> +603&#x2011;8887&#160;4570<br> +603&#x2011;8889&#160;2746 | Ministry of Foreign Affairs |
 | Talian Kasih | 15999 | Kementerian Pembangunan Wanita, Keluarga, dan Masyarakat / Ministry of Women, Family and Community Development |
-| Kementerian Pengajian Tinggi | 03-8870 6777<br> 03-8870 6949<br> 03-8870 6628<br> 03-8870 6623<br> 03-8870 6124 | Ministry of Higher Education |
-| Kementerian Pendidikan Malaysia | 03-8884 9383<br> 03-8888 6749<br> 03-8884 9325<br> 03-8884 9401 | Ministry of Education |
+| Kementerian Pengajian Tinggi | 03&#x2011;8870&#160;6777<br> 03&#x2011;8870&#160;6949<br> 03&#x2011;8870&#160;6628<br> 03&#x2011;8870&#160;6623<br> 03&#x2011;8870&#160;6124 | Ministry of Higher Education |
+| Kementerian Pendidikan Malaysia | 03&#x2011;8884&#160;9383<br> 03&#x2011;8888&#160;6749<br> 03&#x2011;8884&#160;9325<br> 03&#x2011;8884&#160;9401 | Ministry of Education |
 
 
 ## Website
