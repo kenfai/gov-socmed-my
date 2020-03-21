@@ -91,7 +91,7 @@ A list of constantly updated social media accounts used by the **Malaysian Gover
 
 | Name | Account | Description |
 | --- | --- | --- |
-| **Kementerian Kesihatan Malaysia** | <www.moh.gov.my> | Ministry of Health |
+| **Kementerian Kesihatan Malaysia** | <http://www.moh.gov.my> | Ministry of Health |
 | **Majlis Keselamatan Negara** | <https://www.mkn.gov.my/> | National Security Council |
 | **Director General of Health Malaysia** | <https://kpkesihatan.com/> | From the Desk of Director General of Health Malaysia |
 | **Jabatan Penerangan Malaysia** | <https://www.penerangan.gov.my/> | Jabatan Penerangan Malaysia |
