@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #fbfbfb;
+}
+
 #banner {
   display: none;
+}
+
+table th, table td {
+  border-color: #666666;
+}
+
+table td:first-child {
+  border-color: #333333;
 }
