@@ -61,10 +61,10 @@ A list of constantly updated social media accounts used by the **Malaysian Gover
 
 | Name | Link | Description |
 | --- | --- | --- |
-| **Majlis Keselamatan Negara** | https://t.me/MKNRasmi | National Security Council |
-| **Crisis Preparedness and Response Centre (CPRC)** | https://t.me/cprckkm | Ministry of Health |
-| **Kementerian Kesihatan Malaysia** | https://t.me/sihatmilikbersama | Ministry of Health |
-| **Sebenarnya.my** | https://t.me/sebenarnyamy | Fake News Verifier |
+| **Majlis Keselamatan Negara** | <https://t.me/MKNRasmi> | National Security Council |
+| **Crisis Preparedness and Response Centre (CPRC)** | <https://t.me/cprckkm> | Ministry of Health |
+| **Kementerian Kesihatan Malaysia** | <https://t.me/sihatmilikbersama> | Ministry of Health |
+| **Sebenarnya.my** | <https://t.me/sebenarnyamy> | Fake News Verifier |
 
 ## WhatsApp
 
@@ -91,11 +91,11 @@ A list of constantly updated social media accounts used by the **Malaysian Gover
 
 | Name | Account | Description |
 | --- | --- | --- |
-| **Kementerian Kesihatan Malaysia** | www.moh.gov.my | Ministry of Health |
-| **Majlis Keselamatan Negara** | https://www.mkn.gov.my/ | National Security Council |
-| **Director General of Health Malaysia** | https://kpkesihatan.com/ | From the Desk of Director General of Health Malaysia |
-| **Jabatan Penerangan Malaysia** | https://www.penerangan.gov.my/ | Jabatan Penerangan Malaysia |
-| **Jabatan Perdana Menteri** | http://www.jpm.gov.my/ms/content/web-banner-covid-19 | Prime Minister's Department |
+| **Kementerian Kesihatan Malaysia** | <www.moh.gov.my> | Ministry of Health |
+| **Majlis Keselamatan Negara** | <https://www.mkn.gov.my/> | National Security Council |
+| **Director General of Health Malaysia** | <https://kpkesihatan.com/> | From the Desk of Director General of Health Malaysia |
+| **Jabatan Penerangan Malaysia** | <https://www.penerangan.gov.my/> | Jabatan Penerangan Malaysia |
+| **Jabatan Perdana Menteri** | <http://www.jpm.gov.my/ms/content/web-banner-covid-19> | Prime Minister's Department |
 
 ## Other Ministries and Agencies
 
